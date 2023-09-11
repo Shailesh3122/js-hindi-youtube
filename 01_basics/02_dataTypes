@@ -9,7 +9,7 @@ console.log("Shailesh")
 
 
 
-let name = "Shailesh";
+let name2 = "Shailesh";
 let age = 27;
 let isLoggedIn = true;
 let state;
@@ -25,7 +25,7 @@ let state;
 
 //object
 
-console.log(typeof name);  // string
+console.log(typeof name2);  // string
 console.log(typeof isLoggedIn); // boolean
 console.log(typeof state);  // undefined
 console.log(typeof null);  // object
