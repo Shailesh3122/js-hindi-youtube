@@ -36,3 +36,6 @@ myFunction();
 console.log(typeof outsideTemp); //object datatype
 console.log(typeof bigNumber); // bigint datatype
 console.log(typeof myFunction);  // function object datatype
+
+//stack (primitive),  Heap(non-primitive)
+
