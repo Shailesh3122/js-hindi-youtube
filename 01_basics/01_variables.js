@@ -1,7 +1,7 @@
 const accountId = 144553
 let accountEmail = "shailesh.31.kumar@gmail.com"
 var accountPassword = "12345"
-accountCity = "Delhi NCR"
+accountCity2 = "Delhi NCR"
 let accountState;
 
 // accountId = 2 // not aalowed because it is a constant variable
@@ -13,7 +13,9 @@ accountCity="Bengluru"
 /*console.log(accountId);
 console.log(accountPassword);
 console.log(accountCity);*/
-console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+console.table([accountId, accountEmail, accountPassword, currentCity, accountCity, typeof(accountCity2), accountState]);
+var currentCity;
+
 
 /* 
 Prefer not to use var
