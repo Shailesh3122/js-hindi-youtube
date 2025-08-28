@@ -4,7 +4,7 @@ var accountPassword = "12345"
 accountCity2 = "Delhi NCR"
 let accountState;
 
-// accountId = 2 // not aalowed because it is a constant variable
+// accountId = 2 // not allowed because it is a constant variable
 
 accountEmail = "abdhs@gmail.com"
 //accountPassword="545"
@@ -21,3 +21,4 @@ var currentCity;
 Prefer not to use var
 because of issue in block scope and functional scope
 */
+
