@@ -17,10 +17,10 @@ let state;
 // primitive data types =>
 // number => 2 to the power of 53
 //bigint    => larger than number
-//string => ""
+//string => " "
 //boolean => true/false
 //null => standalone value
-//undefined
+//undefined =>
 //symbol => uniqueness
 
 //reference data types
