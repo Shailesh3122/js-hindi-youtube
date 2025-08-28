@@ -7,10 +7,11 @@ let bool2 = "Shailesh";
 
 // console.log(typeof number);
 // console.log(typeof (score));
-console.log(typeof num);
-console.log(typeof sum);
-console.log(typeof bool);
-console.log(typeof bool2);
+// console.log(typeof num);
+// console.log(num);
+// console.log(typeof sum);
+// console.log(typeof bool);
+// console.log(typeof bool2);
 
 let valueInNumber = Number(score);
 console.log(typeof valueInNumber);
@@ -20,9 +21,9 @@ console.log(valueInNumber);
 // console.log(typeof valueInNumber2);
 // console.log(valueInNumber2);
 
-// let valueInNumber3 = Number(num);
-// console.log(typeof valueInNumber3);
-// console.log(valueInNumber3);
+let valueInNumber3 = Number(num);
+console.log(typeof valueInNumber3);
+console.log(valueInNumber3);
 
 // let valueInNumber4 = Number(sum);
 // console.log(typeof valueInNumber4);
@@ -44,7 +45,7 @@ console.log("value6" + valueInNumber6);
 
 //  // 0 => false
 //  // 1 => true
-//  // "" => false
+//  // " " => false
 //  // "Shailesh" => true
 
 //  let someNumber = 33;
